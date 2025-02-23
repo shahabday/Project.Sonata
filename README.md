@@ -43,3 +43,19 @@ It is clear for the author that a large enough GPT like model  , such as GPT 3.5
   1. chord progression based on given style and musician
   2. melody writing based on given style and musician
 
+### Todo : 
+
+
+### Done sofar :
+
+1. first model was trained on pretrained GPT2 model and was able to generate 3 notes :)
+a. data set : maestro midi dataset converted to midi text , having composer name and piece name 
+b. Tokenizer was the extended GPT2 model tokenizer with midi tokens
+
+_________________
+Conclusion : 
+it is possible to achieve the task using GPT like models . it worked at the end . 
+However, tokenizer was too large . we extended 50000 token size with 300 midi tokens . 
+sequence size can be optimized in a way . 
+
+
