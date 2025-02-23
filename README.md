@@ -43,6 +43,28 @@ It is clear for the author that a large enough GPT like model  , such as GPT 3.5
   1. chord progression based on given style and musician
   2. melody writing based on given style and musician
 
+## datasets :
+
+1. Chordonomicon: 666000 songs chord progression from UG website 
+https://github.com/spyroskantarelis/chordonomicon/tree/main
+2.https://symphonynet.github.io/
+
+
+
+## papers to read :
+
+1. Symphony Generation with Permutation Invariant Language Model.
+https://arxiv.org/pdf/2205.05448
+https://symphonynet.github.io/
+https://github.com/symphonynet/SymphonyNet
+2. https://arxiv.org/pdf/2107.05223
+3. https://arxiv.org/pdf/2008.06048
+4. https://arxiv.org/pdf/2007.07244
+5. https://ieeexplore.ieee.org/document/9054554
+6. https://arxiv.org/pdf/1612.01010
+7. 
+
+
 ### Todo : 
 
 
